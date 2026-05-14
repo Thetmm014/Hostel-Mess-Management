@@ -1,0 +1,17 @@
+# Compiled binary
+mess
+mess.exe
+
+# Generated data files (don't share personal data)
+students.csv
+attendance.csv
+complaints.csv
+feedback.csv
+report_*.csv
+
+# Menu is okay to share (not personal data)
+# menu.csv
+
+# OS files
+.DS_Store
+Thumbs.db
